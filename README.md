@@ -108,10 +108,7 @@ ___
 From these results, I would say:
 - Climate Index and Pollution Index are linearly related to Traffic Commute Time Index. 
 - Rent Index, Groceries Index, Property Price to Income Ratio and Local Purchasing Power Index have no statistical proof of linearity.  
-The resulting platform would provide summary data for the user.   
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/28558929/183395920-e5bca9df-d853-43f0-be88-b4fd09eb6ce5.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/28558929/183397178-968eed7b-6d0f-44cc-87fb-acf5647b00bc.png">
-
+The resulting platform would provide summary data for the user. 
 
 In the future, I hope to provide an MVP of the product, get access to an api through which to pull the data from and automate the process.
 
